@@ -1,6 +1,7 @@
 problemasLogica\Divisas.class
 problemasLogica\Mensaje_Bienvenida.class
-problemasLogica\Mensaje_Personalizado.class
 problemasLogica\Chocolates.class
+problemasLogica\Salario_a_Pagar.class
+problemasLogica\Mensaje_Personalizado.class
 problemasLogica\Tubos.class
 problemasLogica\Temperatura.class
