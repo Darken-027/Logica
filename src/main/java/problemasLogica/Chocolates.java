@@ -19,13 +19,28 @@ Cuantos chocolates en promedio vendio en las ultimas cinco semanas ?
  */
 package problemasLogica;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Juan Plaza
  */
 public class Chocolates {
     public static void main(String[] args) {
+       Scanner entrada = new Scanner(System.in);
        
+       int chocolates  = 0;
+       int semanas = 0;
+       int promedio = 0;
+        System.out.println("Ingre la cantidad de chocolates vendido");
+        chocolates = entrada.nextInt();
+        
+        System.out.println("Ingre la cantidad de semanas");
+        semanas = entrada.nextInt();
+        
+        promedio = chocolates / semanas;
+        
+        System.out.println("La el promedio de chocolates vendido es: " + promedio);
     }
 }
 
