@@ -1,6 +1,6 @@
 
 /*
-    Programa que de divisas
+    Programa que de triangulo
     Autor: Juan Dadiv Plaza
     Fecha: 8 Diciembre 2024
     Licencia: GNU GPL v3
