@@ -29,7 +29,9 @@ package problemasLogica;
  * @author Juan Plaza
  */
 public class Varillas_Hierro {
-    
+    public static void main(String[] args) {
+        
+    }
 }
 
 
@@ -37,21 +39,22 @@ public class Varillas_Hierro {
 /*
 Abstraccion
 -Que se solicita finalmente?(Problema)
-    Calcular el area del triangulo
+    Cantidad de vehiculos de carga para mover un pedido de varillas de hierro
 
 -Que informacion es relevante dado el problema anterior ?
-    base
-    altura
+    Cantidad de varillas vendidas
+    Maximo 100 varillas de hierro por vehiculo
+    Maximo 10 vehiculos disponibles por pedido
+    Ignorando las varillas que no se puedan llevar hasta completar el vehiculo 
 
 Descomposicion
 -Que acciones se requieren para resolver el problema
-    Ingresar la base
-    Ingresar la altura
-    Calcular el area del triangulo
-    Generar el mensaje del area
-    Mostrar los resultados
+   Ingresar la cantidad de varillas vendidas
+   Calcular la cantidad de vehiculos de carga
+   Generar mensaje
+   Mostrar mensaje
 
 Reconocimiento de patrones
 -Que puedo reutilizar de la solucion de otros problemas ?
-     
+     La funcion ingresar_entero, mostrar_mensaje
 */
