@@ -1,6 +1,6 @@
 
 /*
-    Programa que 
+    Programa que calcula el presio de fibra optica
     Autor: Juan david Plaza
     Fecha: 11 Diciembre 2024
     Licencia: GNU GPL v3
