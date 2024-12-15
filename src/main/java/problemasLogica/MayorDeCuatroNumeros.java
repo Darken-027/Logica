@@ -1,5 +1,5 @@
 /*
-    Programa que da la nota faltante
+    Programa que 
     Autor: Juan david Plaza
     Fecha: 14 Diciembre 2024
     Licencia: GNU GPL v3
@@ -8,16 +8,8 @@
 
 /*
 Problema:
-La estudiante lsabella del programa de filosofia esta interesada en conocoer el valor que necesita obtener
-en la cuarta nota para aprobar el curso de matematicas.
-
-La nota definitiva del curso se calcula mediante el promedio aritmetico de cuatro notas parciales
-
-Ella quiere ver el nombre del curso con un mensaje que indique, ya aprovo, ya lo perdio, o si aun necesita
-cierto valor en la cuarta nota para aprovar.
-
-Finalmente ella quiere que el programa tambien funcione para otros cursos de la carrera que requieran el 
-promedio aritmetico
+Carolina necesita un programa que le permita calcular la mayor edad entre las edades de sus estudiantes de
+curso de jardin
 */
 
 /*
@@ -30,9 +22,10 @@ package problemasLogica;
  *
  * @author Juan Plaza
  */
-public class Nota_Faltante {
+public class MayorDeCuatroNumeros {
     
 }
+
 
 /*
 Abstraccion
