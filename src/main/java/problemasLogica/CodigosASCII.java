@@ -7,7 +7,10 @@
 
 /*
 Problema:
-                                                 01010101                                                              
+La empresa de seguridad "segurity.gov" trabaja con archivos de texto que contienen informacion 
+confidencial, por ello la empresa desea implementar un programa de codificacion que convierta los caracteres
+de una frase en sus equivalentes en codigo ASCII(amarican standar code for informacion interchange)
+Para que no sean legibles por terceros no autorizados.
 */
 
 /*
