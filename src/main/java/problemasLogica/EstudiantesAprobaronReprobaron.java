@@ -7,13 +7,16 @@
 
 /*
 Problema:
-Juan manuel, uno de nuestros estudiantes desea que los programas que ha desarrollado en este curso de
-Logica de programacion le funcione con una interfaz grafica (GUI Graphical User Interface) haciendo el menor
-numero de cambios posibles
+Luisa, la profesora de logica de programacion necesita un programa que le ayude a idenficar los nombres 
+y la cantidad de estudiantes que aprobaron asi como los que reprobaron la materia.
 
-Ademas quiere volver a la forma tradicional de entrada y salida de datos
-(CLI-Command-Line Interface) cuando lo desee.
+El programa debe preguntar al usuario el nombre y las notas definitivas por la cantidad de estudiantes
+La profesora desea que la nota minima para aprobar se ingrese al programa al momento de ejecutarlo.
+
+El programa debe garantizar que las notas esten entre 0.0 y 5.0, demas de no permitir ingresar 
+cantidades negativas.
 */
+
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
@@ -25,7 +28,7 @@ package problemasLogica;
  *
  * @author Juan Plaza
  */
-public class TkInter {
+public class EstudiantesAprobaronReprobaron {
     
 }
 
