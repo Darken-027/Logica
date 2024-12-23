@@ -11,7 +11,10 @@ El profesor carlos del curso de programacion I, necesita una aplicacion que le p
 de estudiantes de un curso, tanto ordenados de forma descendente como en el orden en el que fueron
 ingresados.
 
+Pero con una condicion, Sin duplicar la lista Original
+
 */
+
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
@@ -23,7 +26,7 @@ package problemasLogica;
  *
  * @author Juan Plaza
  */
-public class OrdenarUnaLista {
+public class OdenarUnaListaConIndices {
     
 }
 
