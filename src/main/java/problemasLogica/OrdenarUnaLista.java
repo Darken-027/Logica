@@ -7,8 +7,11 @@
 
 /*
 Problema:
-El profesor carlos del programa I, necesita de un programa que le permita mostrar el listado de  los estudiantes
-de un curso, tanto de forma descendente, como el orden en el que fueron ingresados.
+El profesor carlos del curso de programacion I, necesita una aplicacion que le permita mostrar la lista 
+de estudiantes de un curso, tanto ordenados de forma descendente como en el orden en el que fueron
+ingresados.
+
+pero con una condicion, sin duplicar la lista original
 */
 
 /*
