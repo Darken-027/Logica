@@ -7,7 +7,13 @@
 
 /*
 Problema:
+Carlos lo ha contratado para craar una aplicacion que le ayude a el a resolver las siguientes preguntas
+relacionadas con asistencia a tres fiestas que organiza cada año  para sus amigos
 
+La pregunta que calosnecesita resolver casa año son:
+    -Quienes asistieron a las 3 fiestas
+    -Quienes asistieron unicamente a la segunda fiesta
+    -Quienes asistieron a la segunda y tercera fiesta pero no a la primera
 
 */
 
