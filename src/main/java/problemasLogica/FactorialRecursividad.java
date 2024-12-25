@@ -7,13 +7,17 @@
 
 /*
 Problema:
-Diego el profesor de literactura de la universidad, lo contracta para crear una aplicacion que le permita
-determinar la cantidad de veces que aparece cada caracter(Letra, simbolo, numero) en una frace.
+Mauricio, Uno de sus compañeros del programa de ingenieria de sistemas y computacion le contacta para que
+le explique y le ayude a resolver cinco problemas clasicos de la recursividad
 
-La salida la quiere ordenada de mayor a menor segun la frecuencia, pero limitada a loscaracteres con
- una frecuencia mayor a uno.
+    -Calcular el factorial de un numero entero positivo.
+    -Determinar el valor del n-esimo termino de la sucesion de Fibonacci.
+    -Decidir si un numero entero positivo es par o impar.
+    -Encontrar las soluciones del problema de las n-reinas.
+    -Encontrar todas las soluciones de un laberinto.
 
 */
+
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
@@ -25,7 +29,7 @@ package problemasLogica;
  *
  * @author Juan Plaza
  */
-public class FrecuenciaCaracteresUnaFrace {
+public class FactorialRecursividad {
     
 }
 
