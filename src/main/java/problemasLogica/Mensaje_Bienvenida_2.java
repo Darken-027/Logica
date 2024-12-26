@@ -23,9 +23,9 @@ package problemasLogica;
  * @author Juan Plaza
  */
 
-public class Mensaje_Bienvenida {
+public class Mensaje_Bienvenida_2 {
     public static void main(String[] args) {
-        System.out.println("Bienvenido al programa de ingenieria de Sistemas de Computacion");
+        System.out.println("Bienvenidos al programa de Ingenieria de Sistemas y Computacion");
     }
 }
 
