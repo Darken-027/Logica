@@ -25,6 +25,8 @@ package problemasLogica;
 
 public class Mensaje_Bienvenida_2 {
     public static void main(String[] args) {
+        
+        /* Muestra un mensaje en pantalla */
         System.out.println("Bienvenidos al programa de Ingenieria de Sistemas y Computacion");
     }
 }
