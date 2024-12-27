@@ -38,6 +38,7 @@ public class Mensaje_Personalizado_3 {
         nombre = entrada.nextLine();
         System.out.println("Bienvenid@: " + nombre + " a la tienda");
         System.out.println("Bienvenid@: " + nombre + " a la tienda");
+         System.out.println("Bienvenid@: " + nombre + " a la tienda");
        
     }
    
