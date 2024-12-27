@@ -1,6 +1,6 @@
 /*
     Programa que imprime un mensaje de bienvenida personalizado
-    Autor: Juan Dadiv Plaza
+    Autor: Juan David Plaza
     Fecha: 1 Diciembre 2024
     Licencia: GNU GPL v3
 */
@@ -34,32 +34,36 @@ public class Mensaje_Personalizado_3 {
         Scanner entrada = new Scanner(System.in);
         String nombre = "";
         
-        System.out.println("Ingrese el nombre del cliente");
+        System.out.println("Ingrese El Nombre Del Cliente");
         nombre = entrada.nextLine();
         
-        System.out.println("Bienvenid@: " + nombre + " a la tienda");
+       
     }
+    
+        public String mostrarMensaje(String nombre){
+             System.out.println("Bienvenid@: " + nombre + " a la tienda");
+        }
 }
 
 
 
 /*
 Abstraccion:
-- Que se solicita finalmente?(problema)
-   Mostrar un mensaje de bienvenida para un cliente
+    - Que se solicita finalmente?(problema)
+        Mostrar un mensaje de bienvenida para un cliente
 
-- Que informacion es relevante dado el problema anterior?
-    El nombre del cliente
-    Mensaje: "Bienvenido Jorge a la tienda" suponiendo que el cliente se llame "Jorge"
+    - Que informacion es relevante dado el problema anterior?
+        El nombre del cliente
+        Mensaje: "Bienvenido Jorge a la tienda" suponiendo que el cliente se llame "Jorge"
     
 
 Desconposion:
--Que acciones se requieren para resolver el problema
-    Ingresar untexto(nombre del cliente)
-    Generar mensaje de bienvenida
-    Mostrar el mensaje
+    -Que acciones se requieren para resolver el problema
+        Ingresar untexto(nombre del cliente)
+        Generar mensaje de bienvenida
+        Mostrar el mensaje
 
 Reconocimiento de patrones
--Que puedo reutilizar de la solucion de otros problemas ?
-    La funcion mostrar_mensaje
+    -Que puedo reutilizar de la solucion de otros problemas ?
+        La funcion mostrar_mensaje
 */

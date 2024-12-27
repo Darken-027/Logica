@@ -1,6 +1,6 @@
 /*
     Programa que imprime un mensaje de bienvenida
-    Autor: Juan Dadiv Plaza
+    Autor: Juan David Plaza
     Fecha: 30 Nomviembre 2024
     Licencia: GNU GPL v3
 */
