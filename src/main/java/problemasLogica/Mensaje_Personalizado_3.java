@@ -24,10 +24,10 @@ import java.util.Scanner;
 /**
  *
  * @author Juan Plaza
- */
+ */ 
 
     /* Clase principal */
-public class Mensaje_Personalizado {
+public class Mensaje_Personalizado_3 {
     
     /* funcion principal */
     public static void main(String args[]){

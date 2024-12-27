@@ -1,3 +1,4 @@
+problemasLogica\Mensaje_Personalizado_3.class
 problemasLogica\OrdenarUnaListaConIndicesVariables.class
 problemasLogica\ContarValores.class
 problemasLogica\TablaDeMultiplicar.class
@@ -21,12 +22,10 @@ problemasLogica\Descuento_Salario.class
 problemasLogica\OrdenarUnaListaDeMultiplesDatos.class
 problemasLogica\PersecucionPolicial.class
 problemasLogica\ConvertirDecimalBinarios.class
-problemasLogica\Mensaje_Bienvenida.class
 problemasLogica\DistanciaManhattanTuplas.class
 problemasLogica\Chocolates.class
 problemasLogica\SucesionFibonacci.class
 problemasLogica\CodigosASCII.class
-problemasLogica\Mensaje_Personalizado.class
 problemasLogica\ParImparRecursividad.class
 problemasLogica\CifraryDescifrar.class
 problemasLogica\Temperatura.class
@@ -34,6 +33,7 @@ problemasLogica\LaberintoRecursividad.class
 problemasLogica\AsistentesFiestas.class
 problemasLogica\ConvertirBinariosDecimal.class
 problemasLogica\IncorporacionEjercitoNacional.class
+problemasLogica\Mensaje_Bienvenida_2.class
 problemasLogica\CapitalizandoPalabras.class
 problemasLogica\ListadoDeAsistentes.class
 problemasLogica\Venta_Fibra_Optica.class
