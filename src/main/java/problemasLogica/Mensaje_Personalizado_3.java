@@ -3,17 +3,17 @@
     Autor: Juan David Plaza
     Fecha: 1 Diciembre 2024
     Licencia: GNU GPL v3
-*/
+ */
 
-/*
+ /*
 Problema: 
 Juan, requiere un programa  que permita mostrar un mensaje de bienvenida para un cliente que entra asu 
 tienda de videojuegos. Para esto su asistente carlos le solicita el nombre al ingresar a la tienda, de tal
 manera que se observe en la pantalla el mensaje a: "Bienvenido Jorge a la tienda", suponiendo que el cliente
 se llame "Jorge".
-*/
+ */
 
-/*
+ /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
@@ -24,22 +24,27 @@ import java.util.Scanner;
 /**
  *
  * @author Juan Plaza
- */ 
+ */
 
-    /* Clase principal */
+/* Clase principal */
 public class Mensaje_Personalizado_3 {
-    
+
     /* funcion principal */
-    public static void main(String args[]){
+    public static void main(String args[]) {
         Scanner entrada = new Scanner(System.in);
-        String nombre = "";
-        
-        System.out.println("Ingrese El Nombre Del Cliente");
-        nombre = entrada.nextLine();
-        System.out.println("Bienvenid@: " + nombre + " a la tienda");
-       
+        String texto = "";
+
+        System.out.print("Ingrese El Nombre Del Cliente: ");
+        texto = entrada.nextLine();
+    
+         mostrarMensaje(texto);
+    }
+ 
+    public static void mostrarMensaje(String texto) {
+        System.out.println("Bienvenido a la tienda " + texto);
     }
    
+
 }
 
 
